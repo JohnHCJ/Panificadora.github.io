@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Nosotros{
+    padding: 60px 20px;
+    background-color: #2e2e2e;
+    color: #fff;
+    justify-content: center;
+    box-shadow: 10px 10px 8px #000;
+}
+
+.Nosotros h1{
+    padding: 40px;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.Nosotros h3{
+    padding: 20px 100px;
+    align-items: center;
+    font-style: italic;
+}
+
+.Joel{
+    padding: 60px 20px;
+    background-color: #202020;
+    color: #fff;
+    justify-content: center;
+    box-shadow: 10px 10px 8px #000;
+}
+
+.Joel h1{
+   padding: 40px;
+   font-size: 3rem;
+}
+
+.Joel h3{
+    padding: 20px 100px;
+    align-items: center;
+    font-style: italic;
+}
+
+.Joel img{
+    height: 290px;
+    width: 200px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.Joel img:hover{
+    transform: scale(30px);
+    transition: .4s;
+    box-shadow: 10px 5px 8px #000;
+}
+
+.john{
+    padding: 60px 20px;
+    background-color: #151515;
+    color: #fff;
+    justify-content: center;
+    box-shadow: 10px 10px 8px #000;
+    z-index: 1;
+}
+
+.john h1{
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.john h3{
+    padding: 0px 100px;
+    align-items: center;
+    font-style: italic;
+}
+
+.john img{
+    height: 290px;
+    width: 300px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.john img:hover{
+    transform: scale(30px);
+    transition: .4s;
+    box-shadow: 10px 5px 8px #000;
+}
+
+.mois{
+    padding: 60px 20px;
+    background-color: #202020;
+    color: #fff;
+    justify-content: center;
+    box-shadow: 10px 10px 8px #000;
+    z-index: 1;
+}
+
+.mois h1{
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.mois h3{
+    padding: 0px 100px;
+    align-items: center;
+}
+
+.mois img{
+    height: 290px;
+    width: 287px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.mois img:hover{
+    transform: scale(30px);
+    transition: .4s;
+    box-shadow: 10px 5px 8px #000;
+}
+
+.Kenedy{
+    padding: 60px 20px;
+    background-color: #2e2e2e;
+    color: #fff;
+    justify-content: center;
+    box-shadow: 10px 10px 8px #000;
+    z-index: 1;
+}
+
+.Kenedy h1{
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.Kenedy h3{
+    padding: 0px 100px;
+    align-items: center;
+}
+
+.Kenedy img{
+    height: 290px;
+    width: 280px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.Kenedy img:hover{
+    transform: scale(30px);
+    transition: .4s;
+    box-shadow: 10px 5px 8px #000;
+}
+
+.Wilson {
+    padding: 60px 20px;
+    background-color: #151515;
+    color: #fff;
+    justify-content: center;
+    box-shadow: 10px 10px 8px #000;
+    z-index: 1;
+}
+
+.Wilson h1{
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.Wilson h3{
+    padding: 0px 100px;
+    align-items: center;
+}
+
+.Wilson img{
+    height: 290px;
+    width: 215px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.Wilson img:hover{
+    transform: scale(30px);
+    transition: .4s;
+    box-shadow: 10px 5px 8px #000;
+}
+
+
+.btn{
+    padding: 30px 20px;
+    justify-content: center;
+    background-color: #2e2e2e;
+}
+
+.btn button{
+    display: inline-block;
+    margin-top: 15px;
+    padding: 30px 80px;
+    border: 2px solid #882426;
+    text-decoration: none;
+    background: #882426;
+}
+
+.btn button a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+.btn button:hover{
+    border: #000;
+    background: #000;
+    border-radius: 20px;
+    transition: .5s;
+}
